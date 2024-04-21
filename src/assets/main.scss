@@ -1,0 +1,16 @@
+body {
+  font-family: 'Helvetica';
+  background: #eee;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+}
